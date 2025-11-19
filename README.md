@@ -1,40 +1,71 @@
-### Hi there, I'm Caesarek 👋
-
 <div align="center">
 
-  **Front-End Developer & Content Creator** *Building interactive, high-performance web experiences.*
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=B869FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Caesarek;Front-End+Developer;Freelancer;UI%2FUX+Designer" alt="Typing SVG" />
+  </a>
 
-  <a href="mailto:kontakt@caesarek.pl">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-purple?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://discord.gg/GKqRTzjnMG">
-    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord" alt="Discord" />
-  </a>
-  <a href="https://caesarek.pl">
-    <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=vercel" alt="Website" />
-  </a>
+  <br/>
+
+  <p>
+    <a href="mailto:kontakt@caesarek.pl">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+    </a>
+    <a href="https://discord.gg/GKqRTzjnMG">
+      <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
+    <a href="https://caesarek.pl">
+      <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-### 💻 Tech Stack
+### 👨‍💻 About Me
 
-I focus on **clean code**, **performance**, and **user experience**.
+> *"I create websites that look like the future."*
 
-| Core | Styling | Tools & Architecture |
-| :--- | :--- | :--- |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+Jestem **Front-End Developerem** skupionym na dostarczaniu wysokiej jakości rozwiązań webowych. Specjalizuję się w **wydajnych, nowoczesnych stronach** z unikalnym designem (Glassmorphism, Neon UI). Mój kod jest czysty, minimalny i zawsze zoptymalizowany pod kątem SEO i szybkości.
+
+- 🔭 **I’m currently working on:** Expanding my portfolio & Open Source projects.
+- 💼 **I’m open for:** Commercial projects (Landing Pages, Personal Hubs, Corporate Websites).
+- ⚡ **Fun fact:** My website protects itself against code copying.
 
 ---
 
-### 🚀 Current Focus
+### 🛠️ Tech Stack & Tools
 
-- **Professional Portfolio:** [caesarek.pl](https://caesarek.pl) - A fully interactive personal hub featuring Glassmorphism UI, real-time API integrations (Discord/Twitch), and custom audio visualizations.
-- **Freelancing:** Open for commissions (Landing Pages, Personal Websites).
+<div align="center">
+
+| **Core** | **Styling & Design** | **Workflow & Deploy** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html,js,ts" /> | <img src="https://skillicons.dev/icons?i=css,tailwind,figma" /> | <img src="https://skillicons.dev/icons?i=git,vscode,vercel" /> |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=caesarek00&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B869FF&icon_color=ffffff" height="180" alt="stats graph" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesarek00&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B869FF" height="180" alt="languages graph" />
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caesarek00&theme=radical&hide_border=true&background=0d1117&ring=B869FF&currStreakLabel=B869FF" alt="streak graph" />
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caesarek00&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Caesarek's GitHub stats" />
+  <a href="https://caesarek.pl">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer&text=Visit%20caesarek.pl&fontSize=20&fontColor=ffffff" width="100%"/>
+  </a>
 </div>
