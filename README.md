@@ -22,7 +22,7 @@
 
 > *"Code is like humor. When you have to explain it, it’s bad."*
 
-Jestem **Front-End Developerem** i Freelancerem. Tworzę strony, które nie tylko działają, ale "płyną". Specjalizacja: **Glassmorphism, Performance, Modern UI**.
+Jestem **Front-End Developerem** i Freelancerem. Tworzę strony, które nie tylko działają, ale "płyną". Specjalizacja: **Creative Landing Pages, Interactive UI, Technical SEO**.
 
 - 🔭 **Aktualnie:** Rozwijam portfolio i projekty komercyjne.
 - 💼 **Status:** Otwarty na zlecenia (B2B / Freelance).
