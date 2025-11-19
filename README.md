@@ -1,22 +1,18 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Caesarek&fontSize=80&fontAlign=50&fontAlignY=35&desc=Front-End%20Developer%20%7C%20UI%2FUX&descAlign=50&descAlignY=62&fontColor=ffffff" width="100%" alt="Header" />
+</div>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=B869FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+caesarek;Front-End+Developer;Freelancer;UI%2FUX+Designer" alt="Typing SVG" />
+<div align="center">
+
+  <a href="mailto:kontakt@caesarek.pl">
+    <img src="https://img.shields.io/badge/Email-Kontakt-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
-
-  <br/>
-
-  <p>
-    <a href="mailto:kontakt@caesarek.pl">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-white?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-    </a>
-    <a href="https://discord.gg/GKqRTzjnMG">
-      <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="https://caesarek.pl">
-      <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
-    </a>
-  </p>
+  <a href="https://discord.gg/GKqRTzjnMG">
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://caesarek.pl">
+    <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
 
 </div>
 
@@ -24,48 +20,47 @@
 
 ### 👨‍💻 About Me
 
-> *"I create websites that look like the future."*
+> *"Code is like humor. When you have to explain it, it’s bad."*
 
-Jestem **Front-End Developerem** skupionym na dostarczaniu wysokiej jakości rozwiązań webowych. Specjalizuję się w **wydajnych, nowoczesnych stronach** z unikalnym designem (Glassmorphism, Neon UI). Mój kod jest czysty, minimalny i zawsze zoptymalizowany pod kątem SEO i szybkości.
+Jestem **Front-End Developerem** i Freelancerem. Tworzę strony, które nie tylko działają, ale "płyną". Specjalizacja: **Glassmorphism, Performance, Modern UI**.
 
-- 🔭 **I’m currently working on:** Expanding my portfolio & Open Source projects.
-- 💼 **I’m open for:** Commercial projects (Landing Pages, Personal Hubs, Corporate Websites).
-- ⚡ **Fun fact:** My website protects itself against code copying.
+- 🔭 **Aktualnie:** Rozwijam portfolio i projekty komercyjne.
+- 💼 **Status:** Otwarty na zlecenia (B2B / Freelance).
+- ⚡ **Stack:** Czysty kod, zero zbędnych zależności.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <div align="center">
-
-| **Core** | **Styling & Design** | **Workflow & Deploy** |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,js,ts" /> | <img src="https://skillicons.dev/icons?i=css,tailwind,figma" /> | <img src="https://skillicons.dev/icons?i=git,vscode,vercel" /> |
-
+  <img src="https://skillicons.dev/icons?i=html,js,ts,css,tailwind,figma,git,vscode,vercel,github" />
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
+### 🏆 GitHub Trophies
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=caesarek00&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B869FF&icon_color=ffffff" height="180" alt="stats graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesarek00&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B869FF" height="180" alt="languages graph" />
-
-</div>
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=caesarek00&theme=radical&hide_border=true&background=0d1117&ring=B869FF&currStreakLabel=B869FF" alt="streak graph" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=caesarek00&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="trophies" />
 </div>
 
 ---
 
+### 📊 Developer Dashboard
+
 <div align="center">
-  <a href="https://caesarek.pl">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=100&section=footer&text=Visit%20caesarek.pl&fontSize=20&fontColor=ffffff" width="100%"/>
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=caesarek00&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B869FF&icon_color=ffffff" height="160" alt="stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesarek00&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B869FF" height="160" alt="languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caesarek00&bg_color=0d1117&color=B869FF&line=B869FF&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=80&section=footer" width="100%" alt="Footer" />
 </div>
